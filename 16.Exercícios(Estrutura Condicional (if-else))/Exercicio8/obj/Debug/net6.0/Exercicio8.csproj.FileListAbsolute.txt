@@ -1,0 +1,15 @@
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.exe
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.deps.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.runtimeconfig.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.csproj.AssemblyReference.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfoInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfo.cs
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.csproj.CoreCompileInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\refint\Exercicio8.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.genruntimeconfig.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Condicional (if-else)\Exercicio8\Exercicio8\obj\Debug\net6.0\ref\Exercicio8.dll
