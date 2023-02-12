@@ -1,0 +1,15 @@
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\bin\Debug\net6.0\Eercicio1.exe
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\bin\Debug\net6.0\Eercicio1.deps.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\bin\Debug\net6.0\Eercicio1.runtimeconfig.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\bin\Debug\net6.0\Eercicio1.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\bin\Debug\net6.0\Eercicio1.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.csproj.AssemblyReference.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.AssemblyInfoInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.AssemblyInfo.cs
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.csproj.CoreCompileInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\refint\Eercicio1.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\Eercicio1.genruntimeconfig.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Eercicio1\Eercicio1\obj\Debug\net6.0\ref\Eercicio1.dll
