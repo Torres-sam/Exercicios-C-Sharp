@@ -1,0 +1,15 @@
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\bin\Debug\net6.0\ExerciocioDeFixacao2.exe
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\bin\Debug\net6.0\ExerciocioDeFixacao2.deps.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\bin\Debug\net6.0\ExerciocioDeFixacao2.runtimeconfig.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\bin\Debug\net6.0\ExerciocioDeFixacao2.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\bin\Debug\net6.0\ExerciocioDeFixacao2.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.csproj.AssemblyReference.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.AssemblyInfoInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.AssemblyInfo.cs
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.csproj.CoreCompileInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\refint\ExerciocioDeFixacao2.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ExerciocioDeFixacao2.genruntimeconfig.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercicios de Fixação\ExerciocioDeFixacao2\ExerciocioDeFixacao2\obj\Debug\net6.0\ref\ExerciocioDeFixacao2.dll

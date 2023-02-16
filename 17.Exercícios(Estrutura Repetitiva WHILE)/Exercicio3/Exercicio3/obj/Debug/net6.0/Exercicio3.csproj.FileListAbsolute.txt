@@ -1,0 +1,15 @@
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\bin\Debug\net6.0\Exercicio3.exe
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\bin\Debug\net6.0\Exercicio3.deps.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\bin\Debug\net6.0\Exercicio3.runtimeconfig.json
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\bin\Debug\net6.0\Exercicio3.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\bin\Debug\net6.0\Exercicio3.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.csproj.AssemblyReference.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.AssemblyInfoInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.AssemblyInfo.cs
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.csproj.CoreCompileInputs.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\refint\Exercicio3.dll
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.pdb
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\Exercicio3.genruntimeconfig.cache
+D:\Samuel\CURSOS\Udemy\C# COMPLETO Programação Orientado + Projetos\Atividades\Exercícios sobre Estrutura Repetitiva WHILE\Exercicio3\Exercicio3\obj\Debug\net6.0\ref\Exercicio3.dll
